@@ -27,7 +27,7 @@ option(OPENGEODE_GEOSCIENCES_WITH_TESTS "Compile test projects" ON)
 option(OPENGEODE_GEOSCIENCES_WITH_PYTHON "Compile Python bindings" OFF)
 
 # Get OpenGeode-Geosciences dependencies
-find_package(OpenGeode REQUIRED)
+#find_package(OpenGeode REQUIRED)
 
 #------------------------------------------------------------------------------------------------
 # Configure the OpenGeode-Geosciences libraries
